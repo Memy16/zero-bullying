@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "bulma": "^1.0.1",
+    "firebase": "^10.12.4"
+  }
+}
